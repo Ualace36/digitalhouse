@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(252, 252, 252)
+}
+.footer{color:rgb(1, 1, 2);
+        position: absolute;
+    top: 96%;
+    left: 35%;
+}
